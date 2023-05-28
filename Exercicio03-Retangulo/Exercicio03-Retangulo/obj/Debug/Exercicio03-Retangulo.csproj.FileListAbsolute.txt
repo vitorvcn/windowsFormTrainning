@@ -1,0 +1,11 @@
+C:\Users\vitor\source\repos\Exercicio03-Retangulo\Exercicio03-Retangulo\bin\Debug\Exercicio03-Retangulo.exe.config
+C:\Users\vitor\source\repos\Exercicio03-Retangulo\Exercicio03-Retangulo\bin\Debug\Exercicio03-Retangulo.exe
+C:\Users\vitor\source\repos\Exercicio03-Retangulo\Exercicio03-Retangulo\bin\Debug\Exercicio03-Retangulo.pdb
+C:\Users\vitor\source\repos\Exercicio03-Retangulo\Exercicio03-Retangulo\obj\Debug\Exercicio03-Retangulo.csproj.AssemblyReference.cache
+C:\Users\vitor\source\repos\Exercicio03-Retangulo\Exercicio03-Retangulo\obj\Debug\Exercicio03-Retangulo.csproj.SuggestedBindingRedirects.cache
+C:\Users\vitor\source\repos\Exercicio03-Retangulo\Exercicio03-Retangulo\obj\Debug\Exercicio03_Retangulo.Form1.resources
+C:\Users\vitor\source\repos\Exercicio03-Retangulo\Exercicio03-Retangulo\obj\Debug\Exercicio03_Retangulo.Properties.Resources.resources
+C:\Users\vitor\source\repos\Exercicio03-Retangulo\Exercicio03-Retangulo\obj\Debug\Exercicio03-Retangulo.csproj.GenerateResource.cache
+C:\Users\vitor\source\repos\Exercicio03-Retangulo\Exercicio03-Retangulo\obj\Debug\Exercicio03-Retangulo.csproj.CoreCompileInputs.cache
+C:\Users\vitor\source\repos\Exercicio03-Retangulo\Exercicio03-Retangulo\obj\Debug\Exercicio03-Retangulo.exe
+C:\Users\vitor\source\repos\Exercicio03-Retangulo\Exercicio03-Retangulo\obj\Debug\Exercicio03-Retangulo.pdb
